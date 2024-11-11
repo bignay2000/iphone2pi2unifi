@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Share Wifi with Eth device
+# Share Eth1 (iPhone USB Hotspot) with Eth0 device (Unifi WAN2)
 #
 #
 # This script is created to work with Raspbian Stretch
